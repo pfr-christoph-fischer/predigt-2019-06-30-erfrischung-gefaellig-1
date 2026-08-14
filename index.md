@@ -10,7 +10,7 @@ summary: "Erfrischung, neue Kraft, neues Leben für alle, die sich mühen. Für 
 source: pfarrplaner
 source_id: "113@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Erfrischung gefällig?\"."
-audio: audio.mp3
+audio: erfrischung-gefaellig-1.mp3
 audio_duration: "15:53"
 legacy_id: 113
 events:
